@@ -14,3 +14,6 @@ RUST CHEAT
 ● Windows support | 7 | 8 | 8.1 | 10 | 11 |
 
 ● Build support | ALL |
+
+DISCORD: https://discord.gg/TAaUvYnF
+DISCORD SUPPORT: zyro7_ or .zyro7_
