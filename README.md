@@ -16,4 +16,4 @@ RUST CHEAT
 ● Build support | ALL |
 
 DISCORD: https://discord.gg/TAaUvYnF
-DISCORD SUPPORT: zyro7_ or .zyro7_
+DISCORD SUPPORT: zyro7_ or .zyro7_ and thilo4969
